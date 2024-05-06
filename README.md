@@ -43,7 +43,7 @@ For more details on each insurance product and why it is important in the Radix 
 
 ### Link to Canva Presentation
 
-- **Click to See Presentation (Includes Scrypto Testing Video) **: [Here](https://www.canva.com/design/DAGDCJiRn0g/jvYaaVqe4WQasc20wUjRYw/edit?utm_content=DAGDCJiRn0g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Click to See Presentation (Includes Scrypto Testing Video)**: [Here](https://www.canva.com/design/DAGDCJiRn0g/jvYaaVqe4WQasc20wUjRYw/edit?utm_content=DAGDCJiRn0g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
